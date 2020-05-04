@@ -1,4 +1,4 @@
-# A-Case-Study-on-Cab-BehaviourObjective
+# A-Case-Study-on-Cab-Behaviour
 
 Validate the reliability of successful cab booking to the Airport.
 Business Use Case
